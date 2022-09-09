@@ -8,15 +8,9 @@ To build a church website, we use static approach,'static' means opposite to "dy
 
 The guideline like this: select a template, edit in github.com and host in netlify.com 
 
-As far as I understand,there are two use cases for website:
+We will start from Information Website:
 
-1). information
-
-the church service for local people,the photoes goes to Facebook group and leave a link on website,the website contents mainly for outside stranger,like fund rising.All website are in this stage, there are home page and contact page along with outside Facebook group link.
-
-2). evangelist
-
-no matter with or without website can stop you preach, evanglist means event centric and the church move to spreading both offline and online.
+Local believers use phone to contact Pastor,the church website mainly function as a list of informations, the church service for local people,the photoes goes to Facebook account or group and leave a link on website. All website are in this setup, there are home page and contact page along with outside Facebook account or group link.
 
 What kind of template should we choose, in my mind there are some guidlines:
 
@@ -24,7 +18,9 @@ What kind of template should we choose, in my mind there are some guidlines:
 
 2). vertical layout, like an app, good for mobile phone user.
 
-3). deployed in netlify.com, normally a church website need less update frequency, need simple interface, netlify.com suppose to be free to use upto some limitation, Jekyll(a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
+3). a hero image on home page, a hero image is a big picture to show theme of the website.
+
+4). deployed in netlify.com, normally a church website need less update frequency, need simple interface, netlify.com suppose to be free to use upto some limitation, Jekyll(a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
 
 
 Follow the [Tutorial](/tutorial) if you want to deploy by yourself.

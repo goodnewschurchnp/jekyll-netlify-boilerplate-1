@@ -2,13 +2,9 @@
 
 - text: Home
   url: /
-# - text: Opinions
-#   url: /opinions
 - text: Opinions
   url: /opinions
 - text: Tutorial
   url: /tutorial
 - text: Contact
   url: /contact
-- text: Facebook
-  url: https://www.facebook.com

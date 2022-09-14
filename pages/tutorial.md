@@ -38,17 +38,15 @@ You can search internet also.Everytime you press `Print Screen` botton on Keyboa
  
 And use online photo editor with https://fotoflexer.com/editor/ to make the tutorial.
 
-### Domain Name
+#### Domain Name
 
 If you want to replace your net address from yourchurchnamenp.netlify.app to yourchurchnamenp.org to make it more easy remember and easy spread, that is where the Domain Name works. Domain Name is actually a short net address converter.
 
 In our case, to replace yourchurchnamenp.netlify.com to yourchurchnamenp.org cost about 10 USD per year. There are many companies doing this business, you can search internet to find one. 
 
-[jekyll](/tutorial/img/homepage.png)
+![jekyll](/tutorial/img/homepage.png)
 
 ### To build the site with Jekyll Statuc Site Generator
-
-- Jekyll, a Static Site Generator, first release in 2008 by github.com founder Tom Preston-Werner. 
 
 - Jekyll template
 

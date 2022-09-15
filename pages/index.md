@@ -27,7 +27,7 @@ What kind of template should we choose, in my mind there are some ways:
 
 Follow the [Tutorial](/tutorial) if you want to deploy by yourself.
 
-The most difficult part is how to use the site,how to run the site? We will share in [Opinion](/opinion) section as a starter.
+The most difficult part is how to use the site,how to run the site? We will share in [Opinions](/opinions) section as a starter.
 
 We will introduce data and data analyze according our understanding, that is foundation to use website. We will use Google Analytics.
 

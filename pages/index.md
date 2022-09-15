@@ -6,7 +6,7 @@ permalink: /
 
 To build a church website, we use static approach,'static' means opposite to "dynamic' website which has a database, the static website doesn't has a database, which make it less complicated and light-weight,there are similar services like [vercel](https://vercel.com/), [cloudflare pages](https://pages.cloudflare.com/), [github pages](https://pages.github.com) and so on.
 
-The guideline like this: select a template, edit in github.com and host in netlify.com
+The way is like this: select a template, edit in github.com and host in netlify.com
 
 There is a sample website: [Good News Church Nepal](https://goodnewschurchnp.netlify.app), you can folk and start.
 
@@ -14,7 +14,7 @@ We will start from Information Website:
 
 Local believers use phone to contact Pastor,the church website mainly function as a list of informations, the church service for local people,the photoes goes to Facebook account or group and leave a link on website. All website are in this setup, there are home page and contact page along with outside Facebook account or group link.
 
-What kind of template should we choose, in my mind there are some guidlines:
+What kind of template should we choose, in my mind there are some ways:
 
 1). responsive, automaticly layout change between mobile and desktop, good for mobile phone user.
 
@@ -27,7 +27,9 @@ What kind of template should we choose, in my mind there are some guidlines:
 
 Follow the [Tutorial](/tutorial) if you want to deploy by yourself.
 
-We will introduce data and data analyze according our understanding, that is foundation to use website.
+The most difficult part is how to use the site,how to run the site? We will share in [Opinion](/opinion) section as a starter.
+
+We will introduce data and data analyze according our understanding, that is foundation to use website. We will use Google Analytics.
 
 We will briefly touch domain name, an introduction and how to use domain name, a domain name usually cost about 10 USD a year 
 

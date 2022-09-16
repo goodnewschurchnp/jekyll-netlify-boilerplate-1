@@ -12,13 +12,17 @@ We will use a sample church name: Good News Church Nepal,suppose the format of e
 
 First collect the information of the church, such as the name of the church, the name of the Pastor..., then sign up to github.com and netlify.com, there suppose to be many tutorials on internet, finally, go to netlify.com to build the website, as planned, we will build 3 or 4 types of templates, according to static site generator name, first we will use Jekyll, then 11ty,then Next,js, then maybe Jigsaw.
 
-#### Step 1 Collect informations
+#### Step 1 Register a gmail account 
+
+Under format for example, church name: Good News Church Nepal, email like goodnewschurchnp@gmail.com, not use your private email,may need someone other than the Pastor to cooperate, the church site update not often, do not need check daily.
+
+#### Step 2 Collect informations
 
 Church name, Pastor's name, church address, Pastor's phone number, whatever may need for church.
 
 An email address dedicated for website use only, it is better an gmail email, we will use it to register for Google Analytics, github.com and netlify.com later. 
 
-#### Step 2 Sign up
+#### Step 3 Sign up github.com and netlify.com accounts along with Google Analytics account
 
 Sign up for github.com and netlify.com, there are many online howto, the purpose to sign up github.com and netlify.com is to make the template editable in github.com and host in netlify.com
 

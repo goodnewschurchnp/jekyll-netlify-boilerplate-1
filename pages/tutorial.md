@@ -4,8 +4,6 @@ title: Tutorial
 permalink: /tutorial
 ---
 
-## Tutorials
-
 ### Preparation
 
 We will use a sample church name: Good News Church Nepal,suppose the format of email address is goodnewschurchnp@gmail.com, website url suppose to be:goodnewschurchnp.netlify.app
@@ -22,15 +20,15 @@ Church name, Pastor's name, church address, Pastor's phone number, whatever may 
 
 An email address dedicated for website use only, it is better an gmail email, we will use it to register for Google Analytics, github.com and netlify.com later. 
 
-#### Step 3 Sign up github.com and netlify.com accounts along with Google Analytics account
+#### Step 3 Sign up github.com and netlify.com accounts
 
 Sign up for github.com and netlify.com, there are many online howto, the purpose to sign up github.com and netlify.com is to make the template editable in github.com and host in netlify.com
 
-Register in Google Analytics, sign up an account for Google Analytics in https://analynics.google.com/
+#### Step 4 Sigh up and login Google Analytics
 
-About Google Analytics, there is a tutorial you can refer to , also you can search internet. https://www.e2msolutions.com/blog/setup-google-analytics-4/
+Register in Google Analytics, sign up an account for Google Analytics in https://analynics.google.com ,there is a tutorial you can refer to ,  https://www.e2msolutions.com/blog/setup-google-analytics-4/ ,also you can search internet.
 
-#### Print screen software and Oline photo editor
+#### Print screen software and Online photo editor
 
 I am using Respberry Pi Plus3 B Single board computer as desktop, I installed Respberry Pi Desktop,it is actually Debian Linux, the software to capture print screen I use is `scrot`, the `scrot` installed by defult, you can check it installed or not by 
 

@@ -24,6 +24,7 @@ What kind of template should we choose, in my mind there are some ways:
 
 4). deployed in netlify.com, normally a church website need less update frequency, need simple interface, netlify.com suppose to be free to use upto some limitation, Jekyll(a popular Static Site Generator name) was in market in 2008, netlify.com appeared in 2014, so the website deployable in netlify.com means the template can be used free of charge,especially Jekyll template.
 
+We will select different templates, first Jekyll then 11ty, next maybe Next.js, Next maybe Jigsaw. ( All are static statis generator name.)
 
 Follow the [Tutorial](/tutorial) if you want to deploy by yourself.
 

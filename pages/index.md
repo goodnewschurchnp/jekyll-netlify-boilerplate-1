@@ -12,7 +12,7 @@ There is a sample website: [Good News Church Nepal](https://goodnewschurchnp.net
 
 We will start from Information Website:
 
-Local believers use phone to contact Pastor,the church website mainly function as a list of informations, the church service for local people,the photoes goes to Facebook account or group and leave a link on website. All website are in this setup, there are home page and contact page along with outside Facebook account or group link.
+Local believers use phone to contact Pastor,the church website mainly function as a list of informations, the church serve for local people, the photoes goes to Facebook account or group and leave a link on website. All website are in this setup, there are home page and contact page along with outside Facebook account or group link.
 
 What kind of template should we choose, in my mind there are some ways:
 

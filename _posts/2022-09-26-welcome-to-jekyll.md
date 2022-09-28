@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll!
+title: Website and background
 meta_description: A description may also be set in a post. You can find more information about it in pages/about.md.
 author: dan_urbanowicz
 date: '2018-07-03 12:00:00'
@@ -8,7 +8,7 @@ categories: misc
 ---
 # Opinions
 
-## Website and backgrounds
+## Website and background
 
 - HTML and Markdown file
 

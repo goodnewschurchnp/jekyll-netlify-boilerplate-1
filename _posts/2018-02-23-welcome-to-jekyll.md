@@ -8,7 +8,7 @@ categories: misc
 ---
 # Opinions
 
-## Website and background
+## Website and backgrounds
 
 - HTML and Markdown file
 

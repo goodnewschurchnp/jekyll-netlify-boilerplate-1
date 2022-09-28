@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Opinions
+title: Website and background
 meta_description: A description may also be set in a post. You can find more information about it in pages/about.md.
 author: dan_urbanowicz
 date: '2022-09-26 12:00:00'
 categories: misc
 ---
 
-## Website and background
+##### Opinions
 
 - HTML and Markdown file
 

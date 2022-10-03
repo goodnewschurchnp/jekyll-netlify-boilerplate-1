@@ -4,95 +4,108 @@ title:
 permalink: /
 ---
 <style>
-body {
-	background-color: #FFF;
-	color: #333;
-	font: 15px Helvetica, arial, freesans, clean, sans-serif;
-	word-wrap: break-word;
-	line-height: 1.7;
-	padding: 0 20px 20px 20px;
-	width: 722px;
-	-webkit-font-smoothing: antialiased;
-	}
-
-a {
-	color: #4183c4;
-	text-decoration: none;
-	}
-
-a:hover {
-	text-decoration: underline;
-	}
-
-p, blockquote, ul, ol, dl, table, pre {
-	margin: 15px 0;
-	}
-
-ul, ol {
-	padding-left: 30px;
-	}
-
+body{
+    margin: 0 auto;
+    font-family: Georgia, Palatino, serif;
+    color: #444444;
+    line-height: 1;
+    max-width: 960px;
+    padding: 30px;
+}
+h1, h2, h3, h4 {
+    color: #111111;
+    font-weight: 400;
+}
+h1, h2, h3, h4, h5, p {
+    margin-bottom: 24px;
+    padding: 0;
+}
 h1 {
-	border-bottom: 1px solid #ddd;
-	color: #000;
-	font-size: 2.5em;
-	}
-
+    font-size: 48px;
+}
 h2 {
-	border-bottom: 1px solid #eee;
-	color: #000;
-	font-size: 2.0em;
-	}
-
+    font-size: 36px;
+    /* The bottom margin is small. It's designed to be used with gray meta text
+     * below a post title. */
+    margin: 24px 0 6px;
+}
 h3 {
-	font-size: 1.5em;
-	}
-
+    font-size: 24px;
+}
 h4 {
-	font-size: 1.2em;
-	}
-
+    font-size: 21px;
+}
 h5 {
-	font-size: 1.0em;
-	}
-
-h6 {
-	color: #777;
-	font-size: 1.0em;
-	}
-
-h1, h2, h3, h4, h5, h6 {
-	font-weight: bold;
-	line-height: 1.7;
-	margin: 1em 0 15px 0;
-	}
-
-h1 + p, h2 + p, h3 + p {
-	margin-top: 10px;
-	}
-	
-img {
-	max-width: 100%;
-	}
-
-code,
+    font-size: 18px;
+}
+a {
+    color: #0099ff;
+    margin: 0;
+    padding: 0;
+    vertical-align: baseline;
+}
+a:hover {
+    text-decoration: none;
+    color: #ff6600;
+}
+a:visited {
+    color: purple;
+}
+ul, ol {
+    padding: 0;
+    margin: 0;
+}
+li {
+    line-height: 24px;
+}
+li ul, li ul {
+    margin-left: 24px;
+}
+p, ul, ol {
+    font-size: 16px;
+    line-height: 24px;
+    max-width: 540px;
+}
 pre {
-	background-color: #F8F8F8;
-	border-radius: 3px;
-	border: 1px solid #DDD;
-	font-family: Consolas, "Liberation Mono", Courier, monospace;
-	font-size: 12px;
-	margin: 0 2px;
-	padding: 0 5px;
-	white-space: pre;
-	}
+    padding: 0px 24px;
+    max-width: 800px;
+    white-space: pre-wrap;
+}
+code {
+    font-family: Consolas, Monaco, Andale Mono, monospace;
+    line-height: 1.5;
+    font-size: 13px;
+}
+aside {
+    display: block;
+    float: right;
+    width: 390px;
+}
+blockquote {
+    border-left:.5em solid #eee;
+    padding: 0 2em;
+    margin-left:0;
+    max-width: 476px;
+}
+blockquote  cite {
+    font-size:14px;
+    line-height:20px;
+    color:#bfbfbf;
+}
+blockquote cite:before {
+    content: '\2014 \00A0';
+}
 
-pre code {
-	border: none;
-	margin: 0;
-	padding: 0;
-	white-space: pre;
-	}
+blockquote p {  
+    color: #666;
+    max-width: 460px;
+}
+hr {
+    width: 540px;
+    text-align: left;
+    margin: 0 auto 0 0;
+    color: #999;
+}
 
 </style>
 

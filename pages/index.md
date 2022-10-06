@@ -4,28 +4,6 @@ title:
 permalink: /
 ---
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="github-markdown.css">
-<style>
-	.markdown-body {
-		box-sizing: border-box;
-		min-width: 200px;
-		max-width: 980px;
-		margin: 0 auto;
-		padding: 45px;
-	}
-
-	@media (max-width: 767px) {
-		.markdown-body {
-			padding: 15px;
-		}
-	}
-</style>
-<article class="markdown-body">
-	<h1>Unicorns</h1>
-	<p>All the things</p>
-</article>
-
 - To build a church website, we use static approach,'static' means opposite to "dynamic' website which has a database, the static website doesn't has a database, which make it less complicated and light-weight,there are similar services like [vercel](https://vercel.com/), [cloudflare pages](https://pages.cloudflare.com/), [github pages](https://pages.github.com) and so on.
 
 > The way is like this: select a template, edit in github.com and host in netlify.com

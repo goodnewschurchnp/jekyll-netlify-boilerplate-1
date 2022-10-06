@@ -74,6 +74,13 @@ code {
   padding: 0.2rem 0.4rem;
 }
 
+/* Add Custom CSS */
+
+blockquote {
+	background-color: $grey-bg-color;
+  padding: 0.2rem 0.4rem;
+}
+
 ::selection {
   background-color: $selection-bg-color;
 }
